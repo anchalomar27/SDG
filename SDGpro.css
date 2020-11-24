@@ -1,0 +1,74 @@
+.bg-light{
+    background: none !important;
+}
+
+.jumbotron{
+    background: none;
+}
+
+.landing{
+    background: url(https://i.pinimg.com/originals/12/01/90/1201906dcf2eef9d5197c650dc3af91e.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-brand{
+    color: white !important;
+    font-size: 40px;
+}
+
+.nav-link{
+    color: white !important;
+    font-size: 40px;
+}
+
+.nav-item:hover{
+    transition: 2s;
+    background-color: violet;
+}
+
+.jumbotron h1{
+    font-size: 50px;
+    color: white;
+    
+}
+
+.jumbotron p{
+    color: white;
+    font-size: 30px;
+    
+}
+
+body{
+  background-color: black; 
+  overflow-x: hidden; 
+}
+
+.card{
+    background: none;
+    color: white;
+    text-align: center;
+}
+
+.card-img{
+    height: 60vh;
+}
+
+.card-body{
+    padding-top: 80px;
+}
+
+@media(max-width:760px){
+
+
+    .med p{
+    font-size:20px;
+    margin: 10px;
+    }
+    }
+
+    .card-title{
+        font-size: 30px;
+    }
+
